@@ -1,0 +1,11 @@
+.container {
+    background-color:gainsboro;
+}
+
+rightBorder {
+    border-right-style:solid;
+}
+
+leftBorder {
+    border-left-style: solid;
+}

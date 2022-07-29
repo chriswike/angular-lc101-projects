@@ -1,0 +1,15 @@
+.links {
+    text-align: center;
+    font-size: 1.2vw;
+    color:hotpink;
+    background-color:aqua;
+    
+ }
+
+ a {
+   color: hotpink;
+ }
+ 
+ h3 {
+    text-decoration: underline;
+ }
