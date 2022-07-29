@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Oooooh, look, photos';
+  image1 = 'https://images.boattrader.com/resize/1/15/75/7971575_20210731110206239_1_LARGE.jpg';
+  image2 = 'https://static4.depositphotos.com/1015060/463/i/950/depositphotos_4635323-stock-photo-sailboats-at-sea.jpg';
+  image3 = 'https://www.sailtahiti.com/wp-content/uploads/2021/12/Garcia-Passoa-54-feature.jpeg';
 
   constructor() { }
 
